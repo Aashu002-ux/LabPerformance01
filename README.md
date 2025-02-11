@@ -1,7 +1,7 @@
 # LabPerformance01
 
 1️⃣ Sum of Odd and Even Numbers
-Finds the sum of odd and even numbers from a given set.
+Finds the sum of odd and even numbers from a given set./
 File: sum_odd_even.py
 2️⃣ Find the Smallest Number
 Finds the smallest number in a given set.
