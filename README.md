@@ -1,14 +1,14 @@
 # LabPerformance01
 
-### 1️⃣ Sum of Odd and Even Numbers  
+1 Sum of Odd and Even Numbers  
 - Finds the sum of odd and even numbers from a given set.  
 - **File:** `sum_odd_even.py`  
 
-### 2️⃣ Find the Smallest Number  
+2 Find the Smallest Number  
 - Finds the smallest number in a given set.  
 - **File:** `find_smallest.py`  
 
-### 3️⃣ Sum of Numbers (50-100) Divisible by 3 but Not by 5  
+3 Sum of Numbers (50-100) Divisible by 3 but Not by 5  
 - Finds the sum of numbers between **50 and 100** that are divisible by **3** but not **5**.  
 - **File:** `sum_divisible_by_3_not_5.py`  
 
